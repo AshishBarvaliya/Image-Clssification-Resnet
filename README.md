@@ -7,4 +7,4 @@
         - normal resnet :   got test accuracy: 75% .
         - resnet with 0.5 dropout : got test accu : 85% .
         - resnet with 0.7 dropout : got test accu : 78% 
-Note: in the file only last model is available.           
+    - Note: in the file only last model is available.           
